@@ -3537,6 +3537,13 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	audio{
+		margin-top: 5%;
+		text-decoration: none;
+		color: #272833;
+		border-radius: 0%;
+	}
+
 		#footer .icons .icon.alt {
 			text-decoration: none;
 		}
